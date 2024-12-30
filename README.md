@@ -25,6 +25,8 @@ Tu es un ferrailleur de l'espace qui découpe des vaisseaux mais parfois ils exp
 ### Alfred Hitchcock – Vertigo
 Un film inédit.
 
+### The Forgotten City
+
 ## Jeux chelous
 ### Signalis
 C'est comme Resident Evil mais il n'y a aucun rapport. Souvent les jeux font le choix de simplifier leur narration par souci d'accessibilité.  
@@ -35,3 +37,7 @@ C'est comme Resident Evil mais c'est chou et moins dur.
 
 ### Stasis
 C'est bizarre et pervers comme Sanitarium - parfois gluant aussi.
+
+## Jeux déglingos
+### Doki Doki Literature Club!
+### In Sound Mind
