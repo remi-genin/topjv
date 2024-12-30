@@ -3,13 +3,13 @@
 ## Jeux classiques
 
 ### Chants of Sennaar
-Le plus accessible des jeux d'apprentu linguiste. C'est beau à se damner et gratifiant quand on est capable d'enfin comprendre ce qu'on nous raconte.
+Le plus accessible des jeux d'apprenti linguiste. C'est beau à se damner et gratifiant quand on est capable d'enfin comprendre ce qu'on nous raconte.
 
 ### The case of the golden idol
 Best jeu d'enquête. Le jeu est malin et te fait te sentir malin.
 
 ### Aliens: Dark Descent
-Jeu de stratégie dans l'univers d'Aliens, avec une histoire originale pas nulle comme les films récents. Il peut y avoir une tension folle mais réussir les passages tactiques est très satisfaisant.
+Jeu de stratégie dans l'univers d'Aliens, avec une histoire originale pas nulle comme les films récents. Il peut y avoir une tension folle mais réussir à sortir indemne d'une embuscade au détour d'un couloir est très satisfaisant.
 
 ### Sifu
 Incroyable jeu d'arts martiaux pour les gens qui n'aiment pas les jeux d'arts martiaux.
@@ -28,7 +28,7 @@ Un film inédit.
 ## Jeux chelous
 ### Signalis
 C'est comme Resident Evil mais il n'y a aucun rapport. Souvent les jeux font le choix de simplifier leur narration par souci d'accessibilité.  
-Celui-ci s'en fout.
+Celui-ci n'en a rien à foutre.
 
 ### Crow Country
 C'est comme Resident Evil mais c'est chou et moins dur.
